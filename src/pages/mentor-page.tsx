@@ -1,13 +1,10 @@
 import { Link } from "react-router-dom"
 
-import { MentorHero } from "@/components/mentor/mentor-hero"
 import { mentorProfiles } from "@/data/site"
 
 export function MentorPage() {
   return (
     <>
-      <MentorHero />
-
       <section className="section-gap pt-10">
         <div className="brand-container space-y-14">
           <div className="w-full">
