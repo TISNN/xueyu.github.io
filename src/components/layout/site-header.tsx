@@ -50,7 +50,7 @@ export function SiteHeader() {
         </nav>
 
         <a
-          href="https://workspace.studylandsedu.com"
+          href="https://app.studylandsedu.com"
           target="_blank"
           rel="noreferrer"
           className="site-sidebar__login"
@@ -95,7 +95,7 @@ export function SiteHeader() {
               </NavLink>
             ))}
             <a
-              href="https://workspace.studylandsedu.com"
+              href="https://app.studylandsedu.com"
               target="_blank"
               rel="noreferrer"
               className="mt-1 inline-flex w-fit rounded-full border border-slate-300 px-5 py-2 text-sm font-semibold text-[#0f766e]"
